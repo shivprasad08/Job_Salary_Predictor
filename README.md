@@ -15,12 +15,11 @@ Predicts salary based on:
 9. Deployed locally or can be deployed to Streamlit Cloud or HuggingFace Spaces
 
 📊 Tech Stack
-Python 3
-
-1. Pandas, NumPy
-2. Scikit-learn
-3. Streamlit
-4. Joblib for model serialization
+1. Python 3
+2. Pandas, Numpy
+3. Scikit-learn
+4. Streamlit
+5. Joblib for modal serialization
 
 📂 Project Structure
 Job_Salary_Predictor/
@@ -35,14 +34,14 @@ Job_Salary_Predictor/
 
 🖥️ How to Run Locally
 
-1. Clone the Repository
+1. Clone the Repository:
    git clone https://github.com/shivprasad08/Job_Salary_Predictor.git
    cd Job_Salary_Predictor
 
-2. Install Dependencies
+2. Install Dependencies:
    pip install -r requirements.txt
 
-3. Run the Streamlit App
+3. Run the Streamlit App:
    streamlit run app.py
 
 🧠 Model Training
