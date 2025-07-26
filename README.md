@@ -22,6 +22,7 @@ Deployed locally or can be deployed to Streamlit Cloud or HuggingFace Spaces
     6. Git & GitHub for version control
 
 📂 Project Structure
+
     Job_Salary_Predictor/
     │
     ├── data/                  # Dataset files
@@ -33,6 +34,7 @@ Deployed locally or can be deployed to Streamlit Cloud or HuggingFace Spaces
     └── .gitignore             # Files and folders to ignore
 
 🖥️ How to Run Locally
+
     1. Clone the Repository
         git clone https://github.com/shivprasad08/Job_Salary_Predictor.git
         cd Job_Salary_Predictor
@@ -44,6 +46,8 @@ Deployed locally or can be deployed to Streamlit Cloud or HuggingFace Spaces
         streamlit run app.py
 
 🧠 Model Training
+
 To retrain the model on updated data:
+
     python train_model.py
 
